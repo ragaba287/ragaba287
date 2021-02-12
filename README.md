@@ -25,8 +25,8 @@
 <h3 align="left">Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/ragaba287"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ragaba287" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en&layout=compact" alt="ragaba287" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en&layout=compact" alt="ragaba287" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en" alt="ragaba287" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en" alt="ragaba287" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragaba287&theme=dark" alt="ragaba287" /></p>--!>
