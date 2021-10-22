@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en" alt="ragaba287" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragaba287&show_icons=true&theme=radical&title_color=ffdd00&hide_border=true&locale=en&layout=compact" alt="ragaba287" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ragaba287&theme=radical&title_color=ffdd00&hide_border=true&langs_count=3" alt="ragaba287" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ragaba287&theme=radical&title_color=ffdd00&hide_border=true&langs_count=3" alt="ragaba287" /></p>
 
 
 <h3 align="left">Support me:</h3>
