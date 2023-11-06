@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragaba287&label=Profile%20views&color=ffdd00&style=flat" alt="ragaba287" /> </p>
 
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 - 🔭 I’m currently working on [Thajaj](https://github.com/ragaba287/Thajaj)
 
 - 🌱 I’m currently working as a Mobile Developer(Flutter)
